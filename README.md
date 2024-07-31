@@ -1,3 +1,3 @@
-Hi, I’m Emir Bahadır Ünsal / @emirunsal. I live in Turkey and study Mechanical Engineering & Mechatronics.
-- 👀 I’m mainly interested in robotics, mechatronics and control theory
+Hi, I’m Emir Bahadır Ünsal / @emirbahadirunsal. I am a Master's student and researcher in Koç University.
+- 👀 I’m mainly interested in robotics and haptics.
 - 📫 How to reach me: emirbahadirunsal@gmail.com
